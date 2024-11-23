@@ -9,6 +9,10 @@ title: VERDI 2023
   - Notification: __April 26__ ~~April 21~~ (AoE)
   - Final version: May 5 (AoE)
 
+## Proceedings
+
+ - Available at IEEE Xplore: [https://doi.org/10.1109/DSN-W58399.2023](https://doi.org/10.1109/DSN-W58399.2023).
+
 
 ## Invited speakers
 
